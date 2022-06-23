@@ -1,0 +1,11 @@
+.select2-container--default.select2-container--focus .select2-selection--multiple, .select2-container--default.select2-container--focus .select2-selection--single, .select2-container--default.select2-container--open .select2-selection--multiple, .select2-container--default.select2-container--open .select2-selection--single {
+  border-color: #f3f6f9;
+}
+
+.select2-container--default .select2-selection--single, .select2-container--default .select2-selection--multiple {
+  border: 1px solid #f3f6f9;
+}
+
+.select2-container--default .select2-selection--single {
+  background-color: #f3f6f9;
+}

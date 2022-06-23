@@ -1,0 +1,75 @@
+.text-org-deep {
+    color: #eb4435;
+}
+
+.text-green {
+    color: #2dce89;
+}
+
+.text-purple {
+    color: #5e72e4;
+}
+
+.text-org {
+    color: #f57266;
+}
+
+.bg-op-color {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff36;
+    /* opacity: -2.1; */
+}
+
+a.sc-7dvmpp-1.gCdMUP {
+    display: none!important;
+}
+
+.font-weight-300 {
+    font-weight: 300!important;
+}
+
+.font-weight-400 {
+    font-weight: 400!important;
+}
+
+font {
+    color: #000;
+    font-size: .9rem;
+    /* font-weight: 300!important; */
+}
+
+a.btn.btn-bbb {
+    background: white;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+    color: #5e72e4;
+}
+
+a.btn.btn-bbb.btn-block.active {
+    background: #002a57;
+    color: white;
+}
+
+.icon-shape {
+    display: inline-flex;
+    padding: 12px;
+    text-align: center;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-xl {
+    width: 5rem;
+    height: 5rem;
+}
+
+.nav-pills .nav-link.active font {
+    color: #fff;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background-color: #f57266!important;
+}
