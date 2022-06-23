@@ -1,0 +1,5 @@
+
+
+A full functional job portal api
+1) Github: https://github.com/shumonbalok/jobportal,
+2) App discriptions (Figma url): https://www.figma.com/file/lGNosxADfnF6DPQWznzJAb/App-Ui?node-id=119%3A287
